@@ -1,38 +1,3 @@
-# Radical Gamez (raticles)
-
- ![logo-red](./public/assets/img/logo-red.JPG)
- 
-# Table of Contents
-* [Description](Description)
-* [Installation](#installation)
-* [Usage](#usage)
-* [Credits](#credits)
-* [License](#license)
-
- ## Description: 
- This application allows a user to create an account and create a video game library and wishlist.  The library and wishlist will be linked to the user.  The video games can be added or removed by the user.
- 
- ## Installation:
- 
- 1. Go to the URL at "HEROKU WEBPAGE"
- 
- ## Usage
- 
- The program was created for a school project.
- 
- ## Credits
-|Name| Github| 
-|-----------------|---------------------------------|
-| Thomas M. Player| http://github.com/playerthomasm6|
-| John P. Rogers  | http://github.com/RogersJohn811 |
-| Hemanth Kanuri  | http://github.com/hkanuri       |
-| Hisham Kader    | http://github.com/HishamKader   |
-| Mathew Harris   | http://github.com/MattHarris9   |
-| Griffin Surett  | http://github.com/griffinjoshs  |
-
-|----------------|-------------------|
-
-## License 
 This is free and unencumbered software released into the public domain.
 
 Anyone is free to copy, modify, publish, use, compile, sell, or
