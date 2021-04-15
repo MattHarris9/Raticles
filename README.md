@@ -23,7 +23,7 @@
  ## Credits
 |Name| Github| 
 |-----------------|---------------------------------|
-| Thomas M. Player| http://github.com/playerthomasm6|
+| Thomas Player| http://github.com/playerthomasm6|
 | John P. Rogers  | http://github.com/RogersJohn811 |
 | Hemanth Kanuri  | http://github.com/hkanuri       |
 | Hisham Kader    | http://github.com/HishamKader   |
