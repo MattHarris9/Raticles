@@ -14,7 +14,7 @@
  
  ## Installation:
  
- 1. Go to the URL at "HEROKU WEBPAGE"
+ 1. https://raticles.herokuapp.com
  
  ## Usage
  
