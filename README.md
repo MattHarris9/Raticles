@@ -27,7 +27,7 @@
 | John Rogers  | http://github.com/RogersJohn811 |
 | Hemanth Kanuri  | http://github.com/hkanuri       |
 | Hisham Kader    | http://github.com/HishamKader   |
-| Mathew Harris   | http://github.com/MattHarris9   |
+| Matthew Harris   | http://github.com/MattHarris9   |
 | Griffin Surett  | http://github.com/griffinjoshs  |
 
 |----------------|-------------------|
